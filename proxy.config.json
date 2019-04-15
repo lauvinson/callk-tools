@@ -1,0 +1,8 @@
+{
+  "/account": {
+    "target": "https://aicallk.source3g.com",
+    "secure":false,
+    "logLevel":"debug",
+    "changeOrigin":true
+  }
+}
